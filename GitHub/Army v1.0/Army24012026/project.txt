@@ -1,0 +1,14 @@
+Node
+
+Graph(Node)
+
+Entity : Abstract
+	-> Barbarian
+	-> Archer
+	-> Giant
+	//Pour plus tard
+	-> Sapper
+	-> Wizard
+	-> Healer
+
+2 interface dans Entity, Attacker and Caretaker
